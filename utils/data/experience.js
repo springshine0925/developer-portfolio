@@ -1,20 +1,23 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Senior FullStack Engineer',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'SENIOR BACKEND ENGINEER',
+    company: "EdTechTechnology | NewYork,NY,US",
+    duration: "(06/2023 - 04/2024)",
+    role: "- Organized overall strategies, business operates, and what drives success in the  siness.     Collaborated with 2 engineering teams to integrate external APIs   into web pages and applications.     Evaluated and improved existing data system under mentor   supervision.    Worked on Web3 integration on Ethereum, Solana, and Casper"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "FULLSTACK BACKEND DEVELOPERFULLSTACK BACKEND DEVELOPER",
+    company: "EchoGlobal | London,UnitedKingdom",
+    duration: "(04/2020 - 12/2022)",
+    role: "-Organized overall strategies, business operates, and what drives success in the  siness.     Collaborated with 2 engineering teams to integrate external APIs   into web pages and applications.     Evaluated and improved existing data system under mentor   supervision.    Worked on Web3 integration on Ethereum, Solana, and Casper"
   },
   {
     id: 3,
-    title: "junior frontend developer",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "JUNIOR DEVELOPER  ",
+    company: "Pilotcore | Canada",
+    duration: "(06/2017 - 11/2019)", 
+    role: "*Organized overall strategies, business operates, and what drives success in the  siness. <br/>    *Collaborated with 2 engineering teams to integrate external APIs   into web pages and applications.     Evaluated and improved existing data system under mentor   supervision.    Worked on Web3 integration on Ethereum, Solana, and Casper     ificcing"
   }
 ]

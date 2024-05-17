@@ -2,7 +2,7 @@ export const personalData = {
   name: "Wilson Chan",
   profile: '/profile1.jpg',
   designation: "Blockchain Web Engineer",
-  description: "My name is Wilson Chan. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "Cultivated through years of dedicated learning and practical application, my expertise spans across multiple programming languages and frameworks, including Golang, Rust, and Java Spring. These tools serve as my palette for crafting elegant and efficient solutions to complex technical challenges. My journey into the realm of blockchain technology has been particularly exciting. As an enthusiast, I've delved deep into the intricacies of decentralized systems, smart contracts, and distributed ledger technologies. This fascination drives me to explore the limitless potential of blockchain in revolutionizing industries, from finance to supply chain management. What sets me apart is not just my technical proficiency, but also my relentless curiosity and drive for innovation. With a solid foundation in software engineering principles and a passion for cutting-edge technologies, I am eager to contribute to forward-thinking teams and make a meaningful impact in the ever-evolving landscape of technology.",
   email: 'wilsonchan020@gmail.com',
   phone: '',
   address: 'Hong Kong',
