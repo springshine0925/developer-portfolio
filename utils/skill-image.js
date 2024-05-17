@@ -72,6 +72,12 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import solana from '/public/svg/skills/solana.svg';
+import Polkadot from '/public/svg/skills/polkadot.svg';
+import Ethereum from '/public/svg/skills/ethereum.svg';
+import Bitcoin from '/public/svg/skills/bitcoin.svg';
+import Rust from '/public/svg/skills/rust.svg';
+import substrate from '/public/svg/skills/substrate.svg';
 
 
 export const skillsImage = (skill) => {
@@ -224,7 +230,21 @@ export const skillsImage = (skill) => {
     case 'wolframalpha':
       return wolframalpha;
     case 'canva':
-      return canva;
+        return canva;
+    case 'solana':
+        return solana;
+    case 'substrate':
+      return substrate;
+    case 'rust':
+        return Rust;
+    case 'polkadot':
+         return Polkadot;
+    case 'btherium':
+         return Ethereum; 
+    case 'bitcoin':
+          return Bitcoin; 
+    case 'ethereum':
+          return Ethereum;     
     default:
       break;
   }

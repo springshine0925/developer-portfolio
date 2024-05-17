@@ -1,7 +1,6 @@
 export const skillsData = [
   'Rust',
   'Python',
-  'Golang',
   'C++',
   'HTML',
   'CSS',
@@ -25,10 +24,10 @@ export const skillsData = [
   'Strapi',
   'Solana',
   'Polkadot',
-  'Sucstrate',
-  'Kusama',
-  'Java spring boot',
-  'Java'
+  'Substrate',
+  'Java',
+  'Ethereum',
+  'Bitcoin'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
